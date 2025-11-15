@@ -1,0 +1,35 @@
+{
+  "id": "777362d9-e34a-404f-9c21-f84ee69f3f95",
+  "name": "WanaVAT",
+  "publisher": "Wanamics",
+  "version": "27.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "contextSensitiveHelpUrl": "https://www.wanamics.fr/WanaVAT/",
+  "idRanges": [
+    {
+      "from": 87040,
+      "to": 87049
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile", 
+    "GenerateCaptions"
+  ]
+}

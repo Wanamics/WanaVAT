@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="WanaVAT">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 3969645983 - Method 832324968 - NamedType 353853290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must be Customer or Vendor for unrealized VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WanaVAT Events - Method OnBeforeInsertVAT - NamedType MustBeCustomerOrVendorForUnrealizedVAT</note>
+        </trans-unit>
+        <trans-unit id="Report 3676187681 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining VAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report wan Remaining VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3676187681 - Method 36190024 - NamedType 1417930510" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do-you want to create an Excel book for %1 %2(s)?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report wan Remaining VAT - Method Export - NamedType ltConfirm</note>
+        </trans-unit>
+        <trans-unit id="Report 3676187681 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report wan Remaining VAT - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3815257536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Statement Distinct Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query wan VAT Statement Distinct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1770625610 - Action 1844265029 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1770625610">
+          <source>Add Missing VAT Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VAT Statement - Action wanAddMissingVATLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1770625610 - Action 1844265029 - Method 1377591017 - NamedType 3764383116" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1770625610">
+          <source>Do you want to add missing lines?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VAT Statement - Action wanAddMissingVATLines - Method OnAction - NamedType ConfirmLbl</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1584093854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WanaVAT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet WanaVAT - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
