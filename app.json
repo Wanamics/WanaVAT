@@ -2,7 +2,7 @@
   "id": "777362d9-e34a-404f-9c21-f84ee69f3f95",
   "name": "WanaVAT",
   "publisher": "Wanamics",
-  "version": "27.0.0.0",
+  "version": "27.0.0.1",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -14,7 +14,7 @@
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "26.0.0.0",
-  "contextSensitiveHelpUrl": "https://www.wanamics.fr/WanaVAT/",
+  "contextSensitiveHelpUrl": "https://github.com/Wanamics/WanaVAT?tab=readme-ov-file#extension-wanavat",
   "idRanges": [
     {
       "from": 87040,
