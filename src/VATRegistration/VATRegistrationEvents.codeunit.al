@@ -2,7 +2,7 @@ namespace Wanamics.WanaVAT;
 
 using Microsoft.Finance.VAT.Registration;
 using Microsoft.Sales.Customer;
-codeunit 87042 "wan VAT Registration Events"
+codeunit 87042 "VAT Registration Events"
 {
     [EventSubscriber(ObjectType::Table, Database::"VAT Registration Log", OnBeforeValidateField, '', false, false)]
     local procedure SplitAddress(var RecordRef: RecordRef; FieldName: Text; var Value: Text; var IsHandled: Boolean)

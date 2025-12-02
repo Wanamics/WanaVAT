@@ -43,6 +43,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PermissionSet WanaVAT - Property Caption</note>
         </trans-unit>
+        <trans-unit id="ReportExtension 4288720330 - ReportLayout 1584093854 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 4288720330">
+          <source>The WanaVAT Settlement (Excel) provides VAT entries details and totals by VAT Bus./Prod. posting groups.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension Calc. and Post VAT Settlement - ReportLayout WanaVAT - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 4288720330 - ReportLayout 1584093854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 4288720330">
+          <source>WanaVAT Settlement (Excel)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension Calc. and Post VAT Settlement - ReportLayout WanaVAT - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>

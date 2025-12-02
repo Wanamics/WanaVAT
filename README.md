@@ -4,6 +4,14 @@ Cette extension apporte quelques compléments pour faciliter la gestion de la TV
 
 ![TVA](images/wanavat.png)
 
+**Sommaire**
+
+- [Identifiant intracommunautaire et adresse](#identifiant-intracommunautaire-et-adresse)
+- [Contrôle de la TVA sur encaissements](#contrôle-de-la-tva-sur-encaissements)
+  - [Contrôle lors de la validation](#contrôle-lors-de-la-validation)
+  - [Cadrage de la TVA en attente](#cadrage-de-la-tva-en-attente)
+
+
 ## Identifiant intracommunautaire et adresse
 Cet identifiant est désormais essentiel (voir [N° facture et nouvelles mentions obligatoires](https://www.wanamics.fr/n-facture-et-nouvelles-mentions-obligatoires/)).
 C’est pourquoi il est placé en tête sur la fiche client et la fiche fournisseur (entre le N° et le Nom).
@@ -47,3 +55,9 @@ Le traitement **TVA en attente**, extrait (au format .xlsx) le détail des écri
 Un tableau croisé dynamique par **Groupe compta. marché TVA** et **Groupe compta. produit TVA** doit permettre de vérifier le cadrage avec la comptabilité générale (selon les **Paramètres comptabilisation TVA**, ces écritures peuvent concerner plusieurs comptes généraux et/ou plusieurs taux).
 
 En cas d’écart, il faudra vérifier qu’aucune écriture n’a été passée directement sur les comptes de TVA en attente (ce qui n’arrivera pas si **Imputation directe** n’est pas autorisée sur les comptes de TVA).
+
+## Déclaration de TVA
+
+Une présentation Excel permet de disposer d'un tableau croisé dynamique qui facilitera la déclaration de TVA :
+
+![TCD TVA](images/tcd-tva.png)
