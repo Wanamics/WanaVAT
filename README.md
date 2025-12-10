@@ -7,9 +7,12 @@ Cette extension apporte quelques compléments pour faciliter la gestion de la TV
 **Sommaire**
 
 - [Identifiant intracommunautaire et adresse](#identifiant-intracommunautaire-et-adresse)
+- [Documents achats et vente](#documents-achats-et-vente)
+  - [Compte de ventilation](#compte-de-ventilation)
 - [Contrôle de la TVA sur encaissements](#contrôle-de-la-tva-sur-encaissements)
   - [Contrôle lors de la validation](#contrôle-lors-de-la-validation)
   - [Cadrage de la TVA en attente](#cadrage-de-la-tva-en-attente)
+- [Déclaration de TVA](#déclaration-de-tva)
 
 
 ## Identifiant intracommunautaire et adresse
@@ -32,8 +35,14 @@ La règle empirique consiste à rechercher à partir de la fin un code numériqu
 Il pourra être effacé (ou déplacé en suffixe) pour préserver le classement alphabétique.
 * L’obtention de l’adresse ne semble pas possible pour l’Espagne et l’Allemagne (erreur "Le service de validation TVA VIES n’a pas fourni de détails supplémentaires.").
 * Pour la Lituanie (LV) ou la Roumanie (RO), le code postal semble être positionné après la ville et ne permet pas de la dissocier.
-* Pour la Grèce, le préfixe utilisé par l’Union Européenne est ‘EL’, alors que la norme ISO (3166-2) lui attribue le code ‘GR’ (également utilisé pour les domaines internet en .gr)
+* Pour la Grèce, le préfixe utilisé par l’Union Européenne est ‘EL’, alors que la norme ISO (3166-2) lui attribue le code ‘GR’ (également utilisé pour les domaines internet en *.gr*)
 
+## Documents achats et vente
+
+### Compte de ventilation
+<!--MS issue ?-->
+Pour les lignes de **Type** *Compte de ventilation* comme pour les autres, le **Groupe compta. marché TVA** est hérité de l'en-tête.\
+Le **Groupe compta. produit TVA** peut alors être saisi et sera pris en compte pour chacune des lignes de la ventilation.
 
 ## Contrôle de la TVA sur encaissements
 ### Contrôle lors de la validation
