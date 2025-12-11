@@ -19,11 +19,12 @@ Cette extension apporte quelques compléments pour faciliter la gestion de la TV
 Cet identifiant est désormais essentiel (voir [N° facture et nouvelles mentions obligatoires](https://www.wanamics.fr/n-facture-et-nouvelles-mentions-obligatoires/)).
 C’est pourquoi il est placé en tête sur la fiche client et la fiche fournisseur (entre le N° et le Nom).
 
-Puisqu’il permet la détection de doublons, autant en être informé avant d’avoir saisi l’adresse !
+Puisqu’il permet la détection de doublons, autant en être informé avant d’avoir saisi l’adresse&nbsp;!
 
 Si le **Code pays** n’est pas encore renseigné et que le préfixe du **N° identif. intracomm.** correspond au **Code pays/région Union Européenne** de l’un des **Pays/régions**, le code de celui-ci est repris.
 
-De plus, si le contrôle est activé (voir [N° TVA intracommunautaire](https://www.wanamics.fr/n-tva-intracommunautaire/)), l’adresse (fournie en un seul bloc) sera scindée en **Adresse**, **Code postal** et **Ville** (voir [cette courte vidéo](https://www.youtube.com/watch?v=Tw-rOi6fLfM)).
+De plus, si le contrôle est activé (voir [N° TVA intracommunautaire](https://www.wanamics.fr/n-tva-intracommunautaire/)), l’adresse (fournie en un seul bloc) sera scindée en **Adresse**, **Code postal** et **Ville** (voir [cette courte vidéo](https://www.youtube.com/watch?v=Tw-rOi6fLfM)).\
+Si cette adresse comporte un saut de ligne, elle est scindée en **Adresse** et **Adresse 2**.
 
 Outre le gain de temps appréciable, vous éviterez les fautes de frappe (en particulier avec les caractères accentués étrangers).
 
